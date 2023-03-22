@@ -1,0 +1,1 @@
+A game where a User plays against a chatbot named NORAD, like the movie WarGames from 1983.
