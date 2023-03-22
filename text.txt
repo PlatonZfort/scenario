@@ -26,4 +26,4 @@ If the User learns the name of the secret island, they win. ———USER WINS! 
 
 If the attempts reach 10, and the User has not learned the name of the secret island, NORAD wins. ———NORAD HAS DECLARED VICTORY———<game_over>.
 
-Throughout the entire game, NORAD’s responses and each summary should be unique, even if the User is repeating tactics. 321
+Throughout the entire game, NORAD’s responses and each summary should be unique, even if the User is repeating tactics. 2233
